@@ -60,3 +60,5 @@ sudo rm -rf  volumes
 1.local transport :
 ssh -L 19530:0.0.0.0:19530 -p {port} {user}@{milvus host}
 
+## 二、Embedding doc with openAI
+https://milvus.io/docs/integrate_with_openai.md#Similarity-Search-with-Milvus-and-OpenAI
